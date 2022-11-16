@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 and welcome
+💬 Ask me about QA, Automation, testing strategies and concepts. I would be more than happy to help and support you with answers, collaborate and brainstorm new ideas 📝
+
+📫 How to reach me: dmn.alice@gmail.com
 
 <!--
 **AliceIgorevna/AliceIgorevna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
